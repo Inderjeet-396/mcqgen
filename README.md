@@ -1,6 +1,6 @@
 # Steps are taken to do the MCQ generator END to END and deployment of project
 
-# Created a Virtual env with python version 3.10 
+# Created a virtual env with python version 3.10 
 
 1.first login to the AWS: https://aws.amazon.com/console/
 
