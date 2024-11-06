@@ -4,7 +4,7 @@
 
 1.first login to the AWS: https://aws.amazon.com/console/
 
-2.search about the EC2
+2.Search about the EC2
 
 3.you need to config the UBUNTU Machine
 
